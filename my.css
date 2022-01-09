@@ -1,0 +1,42 @@
+nav ul li{
+    list-style: none;
+margin-right: 0px;
+font-size:  20px;
+padding: 0px 200px;
+}
+
+nav a {
+text-decoration: none;
+}
+nav > ul {
+display: flex;
+}
+nav li:hover  {
+background-color: black;
+}
+
+.display:hover li{
+display: block;
+margin-left: -240px;  
+}
+.dropdown{
+position: absolute;
+
+}
+.dropdown li{
+    display: none;
+    background-color: red;
+}
+#flex li a{
+    color: white;
+}
+nav{
+   background-color: black;
+   height: 80px;
+    
+}
+body{
+    margin: 0;
+
+}
+
