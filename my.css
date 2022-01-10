@@ -37,6 +37,49 @@ nav{
 }
 body{
     margin: 0;
+    background-color: lightblue;
 
 }
+section{
+    display: flex;
+}
+
+.margin{
+    margin: 80px;
+}
+img{
+    margin-right: 200px;
+    margin-top: 30px;
+}
+.color{
+    border: 1px solid yellow;
+    width: 100px;
+    height: 30px;
+    padding: 5px;
+    font-size: 20px;
+    background-image: linear-gradient(red,yellow);
+}
+h1{
+    font-size: 70px;
+}
+table{
+    border-collapse: collapse;
+    margin-left: 200px;
+   
+}
+
+ td,th{
+     border: 1px solid;
+ }
+ .size{
+     font-size: 30px;
+     margin-left: 200px;
+ }
+ td{
+     padding: 30px;
+     padding-left: 10px;
+ }
+
+
+
 
