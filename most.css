@@ -1,0 +1,75 @@
+.hide:hover {
+    color: rgb(231, 23, 23);
+    border: 1px solid black;
+    height: 500px;
+    width: 100px;
+    background-color: blue;
+   display: block;
+   position: absolute;
+}
+.hide{
+    color:hotpink
+}
+body{
+    background-color: black;
+}
+i{
+    margin-right: 1500px;
+    margin-right: 0px;
+    position: absolute;
+}
+a{
+    display: none;
+    color: black;
+    display: block;
+    margin-top:20px ;
+    text-decoration: none;
+    
+}
+#br{
+    margin-left: 300px;
+    margin-top: 100px;
+    color: white;
+    font-size: 50px;
+   
+}
+nav ul li{
+    list-style: none;
+margin-right: 0px;
+font-size:  20px;
+padding: 0px 200px;
+}
+
+nav a {
+text-decoration: none;
+}
+nav > ul {
+display: flex;
+}
+nav li:hover  {
+    background-color:gray;
+    }
+
+.display:hover li{
+display: block;
+margin-left: -240px;  
+}
+.dropdown{
+position: absolute;
+
+}
+.dropdown li{
+    display: none;
+    background-color: red;
+}
+#flex li a{
+    color: white;
+}
+nav{
+   background-color: black;
+   height: 80px;
+    
+}
+section{
+    display: flex;
+}
