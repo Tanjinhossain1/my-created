@@ -58,6 +58,7 @@ img{
     padding: 5px;
     font-size: 20px;
     background-image: linear-gradient(red,yellow);
+cursor: pointer;
 }
 h1{
     font-size: 70px;
@@ -80,7 +81,7 @@ table{
      padding-left: 10px;
  }
  span{
-     color: rgb(20, 171, 231);
+     color:transparent;
     
  }
  span::before {
