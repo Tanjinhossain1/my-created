@@ -85,11 +85,11 @@ table{
     
  }
  span::before {
-     content: "Tanjin Hossain Webpage";
-     position: absolute;
-    color: rgb(37, 23, 241);
-    animation: animate 4s linear 0.5s infinite alternate;
-    animation-play-state: running;
+    content: "Tanjin Hossain Webpage";
+    position: absolute;
+   color: rgb(37, 23, 241);
+   animation: animate 4s linear 0.5s infinite alternate;
+   animation-play-state: running;
  }
  b{
      color: rgb(211, 63, 224);
